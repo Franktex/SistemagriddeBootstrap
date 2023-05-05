@@ -1,0 +1,27 @@
+.all {
+    border: solid 1px #000;
+}
+
+.col {
+    background-color: red;
+}
+
+.col-sm {
+    background-color: blue;
+}
+
+.col-md {
+    background-color: green;
+}
+
+.col-lg {
+    background-color: violet;
+}
+
+.col-xl {
+    background-color: yellow;
+}
+
+.col-xxl {
+    background-color: pink;
+}
